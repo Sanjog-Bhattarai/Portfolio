@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "05/01/2023",
+      "title": "Re-all-Estate",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/06/16/15/58/luxury-home-2409518_1280.jpg"
+    },
+
+    {
+      "date": "15/03/2023",
+      "title": "ReactOfood",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2022/01/28/12/17/fast-food-6974507_1280.jpg"
+    },
+    {
+      "date": "18/11/2022",
+      "title": "LetsChat",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://media.istockphoto.com/id/1401461127/photo/hand-of-businessman-using-smartphone-for-email-with-notification-alert.webp?b=1&s=612x612&w=0&k=20&c=Lhzjqvk1iQ_cU0Km4jeTeaK_-EptoDI3LpZJt_KjTps="
+    },
+
+    {
+      "date": "27/10/2022",
+      "title": "FixIt",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2015/04/03/18/56/font-705667_1280.jpg"
+    },
+    {
+      "date": "20/7/2023",
+      "title": "Portfolio",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/10/11/19/51/cat-5646889_1280.jpg"
+    }
+  ]
+}
